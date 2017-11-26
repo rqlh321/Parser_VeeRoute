@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parser</string>
+    <string name="input_hint">Поле для ввода</string>
+    <string name="app_hint">Допустимые символы: \n \"(\", \")\", \"[\", \"]\", \"{\", \"}\"</string>
+    <string name="error_empty_string">Пустая строка</string>
+    <string name="valid">Валидная строка</string>
+    <string name="invalid">Невалидная строка</string>
+    <string name="error_uncomplite">Одна из пар не завершина</string>
+    <string name="bad_element">Некорректный символ</string>
+    <string name="qr_code">qr</string>
+</resources>
